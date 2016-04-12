@@ -62,7 +62,7 @@ The `runRound` function must satisfy the following requirements:
 
 Example `runRound` output (including `attackCharacter` output):
 ```
------ Begin Round 13 -----
+----- Round 13 -----
 Edward Norton does 6 damage to Tyler Durden
 Tyler Durden does 8 damage to Edward Norton
 Edward Norton health: 9
